@@ -1,0 +1,17 @@
+certifi==2026.2.25
+charset-normalizer==3.4.6
+click==8.3.1
+click-plugins==1.1.1.2
+colorama==0.4.6
+dotenv==0.9.9
+filelock==3.25.2
+idna==3.11
+python-dotenv==1.2.2
+requests==2.33.0
+requests-file==3.0.1
+setuptools==80.10.2
+shodan==1.31.0
+tldextract==5.3.1
+urllib3==2.6.3
+wheel==0.46.3
+xlsxwriter==3.2.9
